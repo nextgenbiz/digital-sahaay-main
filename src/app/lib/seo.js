@@ -11,7 +11,7 @@
 export const SEO = {
   // ── Core ──────────────────────────────────────────────────
   siteName: "Digital Sahaay",
-  siteUrl: "https://www.digitalsahaay.com",
+  siteUrl: "https://digitalsahaay.com",
   tagline: "India's Trusted Digital Growth Partner",
 
   // ── Default meta ──────────────────────────────────────────
@@ -21,8 +21,8 @@ export const SEO = {
     "India's trusted digital growth partner. Digital Sahaay helps 100+ businesses build stronger online presence, generate quality leads & achieve measurable growth through website development, SEO, social media marketing and more. Offices in Ahmedabad, Chennai & Pune.",
 
   // ── Assets ── (create these files in /public/images/)  ───
-  logo: "https://www.digitalsahaay.com/images/logo.png",
-  ogImage: "https://www.digitalsahaay.com/images/og-image.jpg", // must be 1200×630
+  logo: "https://digitalsahaay.com/images/logo.png",
+  ogImage: "https://digitalsahaay.com/images/og-image.jpg", // must be 1200×630
   ogImageWidth: 1200,
   ogImageHeight: 630,
 
