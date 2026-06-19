@@ -47,8 +47,8 @@ export const SEO = {
 
   // ── Verification codes (replace with real codes) ──────────
   verification: {
-    google: "REPLACE_WITH_GOOGLE_SEARCH_CONSOLE_CODE",
-    bing: "REPLACE_WITH_BING_WEBMASTER_CODE",
+    google: "3gul7sQ2dA6T_eK1lU8enlEHbPjCKFOHOCZAPcqgVpw",
+    bing: "9A2C45929DDC82D1B6468219DD778051",
   },
 
   // ── Services ──────────────────────────────────────────────
